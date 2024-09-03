@@ -86,3 +86,4 @@ plt.ylabel('accuracy')
 plt.xlabel('epoch')
 plt.show()
 #new line to check the git push
+#checking branches of git
